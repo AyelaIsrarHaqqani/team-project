@@ -1,6 +1,6 @@
 # team-project
 
-Mastering Git and GitHub for Collaboration. Key steps include:
+**Mastering Git and GitHub for Collaboration. Key steps include:**
 
 **Repository Setup:** Cloning a repository, creating branches, and making initial commits.
 
